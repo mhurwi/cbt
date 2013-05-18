@@ -1,0 +1,11 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master"
+  },
+  "packages": {
+    "router": {},
+    "spin": {},
+    "accounts-ui-bootstrap-dropdown": {}
+  }
+}

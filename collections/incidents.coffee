@@ -1,0 +1,1 @@
+@Incidents = new Meteor.Collection("incidents")
