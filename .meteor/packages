@@ -10,3 +10,5 @@ spin
 bootstrap
 router
 coffeescript
+accounts-ui-bootstrap-dropdown
+accounts-password
