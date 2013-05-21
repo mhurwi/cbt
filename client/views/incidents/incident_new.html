@@ -1,4 +1,19 @@
 <template name="incidentNew">
-  <p>you gonna make a new incidnet there will be a form</p>
+  <h1>New Incident</h1>
 
+  <form class="main">
+    <div class="control-group">
+      <label class="control-label" for="description">Description</label>
+      <div class="controls">
+        <input name="description" type="textarea" value="" placeholder="Describe the incident..." />
+      </div>
+    </div>
+
+    <div class="control-group">
+      <div class="controls">
+        <input type="submit" value="Submit" class="btn btn-primary" />
+      </div>
+    </div>
+
+  </form>
 </template>
