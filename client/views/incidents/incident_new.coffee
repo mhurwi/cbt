@@ -9,4 +9,4 @@ Template.incidentNew.events
       if error
         alert(error.reason)
       else
-        Meteor.Router.to 'incidentOriginalThoughts', id
+        Meteor.Router.to 'incidentFeelingsBefore', id
